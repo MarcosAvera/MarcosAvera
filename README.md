@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAvera/0a929693342b668bf8dc1c897e439d77/raw/c4913516322b7e8ace2c807b9348cc1e37eab81e/Githubcard.svg" /> </p>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MarcosAvera/0a929693342b668bf8dc1c897e439d77/raw/4989d866da74a4f31ed17f877707fa436832395e/Githubcard.svg" /> </p>
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Marcos Aquino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosAvera&color=yellow" alt="Profile views" /> </p>
 
@@ -9,8 +9,6 @@
 - ⛵ Programador WEB Java Jr. formado pelo Instituto Proa.
 
 - 💖 Novato no mundo da programação.
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
