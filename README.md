@@ -34,4 +34,4 @@
 <a href="https://instagram.com/marquin_aquino" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-MarcosAquino-05122A?style=flat&logo=instagram" alt="instagram"/>
  
- ![Snake animation](https://github.com/DevOrosco/DevOrosco/blob/output/github-contribution-grid-snake.svg) 
+ ![Snake animation](https://github.com/MarcosAvera/MarcosAvera/blob/output/github-contribution-grid-snake.svg) 
