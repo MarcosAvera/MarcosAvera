@@ -2,9 +2,9 @@
 <h1 align="left">Oi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou Marcos Aquino</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MarcosAvera&color=yellow" alt="Profile views" /> </p>
 
-- 😃 Meu nome é Marcos Aquino, tenho 19 anos e moro em São Paulo Capital.
+- 😃 Meu nome é Marcos Aquino, tenho 20 anos e moro em São Paulo Capital.
 
-- 😅 Atualmente estou a procura do meu primeiro emprego e estudando em casa.
+- 😊 Atualmente sou Jovem Aprendiz na Dasa e estudante na Etec.
 
 - ⛵ Programador WEB Java Jr. formado pelo Instituto Proa.
 
