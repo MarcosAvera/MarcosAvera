@@ -4,7 +4,7 @@
 
 - 😃 Meu nome é Marcos Aquino, tenho 20 anos e moro em São Paulo Capital.
 
-- 😊 Atualmente sou Jovem Aprendiz na Dasa e estudante na Etec.
+- 😊 Estudante na Etec Uirapuru.
 
 - ⛵ Programador WEB Java Jr. formado pelo Instituto Proa.
 
